@@ -207,4 +207,4 @@ SteamTool Library Manager is provided as a **complete free version** with all fe
 Take control of your gaming library today! Download **SteamTool Library Manager** and enjoy the freedom of managing your games across multiple hard drives effortlessly.
 
 ---
-**Last updated:** 2026-09-18 18:13:38 UTC
+**Last updated:** 2026-09-18 21:32:32 UTC
